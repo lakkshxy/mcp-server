@@ -1,6 +1,4 @@
-# Mapbox MCP Server
-
-[![npm version](https://img.shields.io/npm/v/@mapbox/mcp-server)](https://www.npmjs.com/package/@mapbox/mcp-server)
+# Mapbox MCP 
 
 Node.js server implementing Model Context Protocol (MCP) for Mapbox APIs.
 
